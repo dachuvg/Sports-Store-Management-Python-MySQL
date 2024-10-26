@@ -38,13 +38,13 @@ The backend is built with Python, and the MySQL database stores all the informat
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/orders.png)
+![Home Page](https://github.com/dachuvg/Sports-Store-Management-Python-MySQL/blob/main/sports_store/screenshots/orders.png)
 
 ### Manage Products Page
 ![Manage Products Page](https://github.com/dachuvg/Sports-Store-Management-Python-MySQL/blob/main/sports_store/screenshots/manage-products.png)
 
 ### Add New Order Page
-![Add New Order Page](screenshots/new-order.png)
+![Add New Order Page](https://github.com/dachuvg/Sports-Store-Management-Python-MySQL/blob/main/sports_store/screenshots/new-order.png)
 
 ---
 
