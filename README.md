@@ -41,7 +41,7 @@ The backend is built with Python, and the MySQL database stores all the informat
 ![Home Page](screenshots/orders.png)
 
 ### Manage Products Page
-![Manage Products Page](screenshots/manage-products.png)
+![Manage Products Page](https://github.com/dachuvg/Sports-Store-Management-Python-MySQL/blob/main/sports_store/screenshots/manage-products.png)
 
 ### Add New Order Page
 ![Add New Order Page](screenshots/new-order.png)
