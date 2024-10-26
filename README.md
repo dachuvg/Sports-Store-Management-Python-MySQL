@@ -38,13 +38,13 @@ The backend is built with Python, and the MySQL database stores all the informat
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/orders.png)
 
 ### Manage Products Page
-![Manage Products Page](screenshots/manage_products.png)
+![Manage Products Page](screenshots/manage-products.png)
 
 ### Add New Order Page
-![Add New Order Page](screenshots/add_order.png)
+![Add New Order Page](screenshots/new-order.png)
 
 ---
 
